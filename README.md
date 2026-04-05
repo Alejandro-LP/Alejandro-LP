@@ -35,12 +35,6 @@ Soy estudiante de **Ingeniería de Sistemas** con pasión por la **cibersegurida
 
 ---
 
-
-## Estadísticas de GitHub
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandro-LP&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-LP&layout=compact&theme=radical)
----
-
 ## ⚡ Curiosidades
 - 🎮 Gamer de corazón: disfruto títulos como **GTA V, Valorant y LoL**.  
 - 💡 Me encanta aprender mientras resuelvo problemas complejos y prácticos.  
