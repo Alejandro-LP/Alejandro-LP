@@ -19,7 +19,7 @@ Soy estudiante de **Ingeniería de Sistemas** con pasión por la **cibersegurida
 
 ## 📫 Contáctame
 -  Correo: joral2112@hotmail.com 
--  LinkedIn: [Mi perfil](https://www.linkedin.com/in/miusuario)  
+-  LinkedIn: (https://www.linkedin.com/in/jorge-alejandro-l%C3%B3pez-p%C3%A1ez-812a2a30b/?locale=es)
 
 ---
 
